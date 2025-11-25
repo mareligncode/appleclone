@@ -1,6 +1,23 @@
 {
+  "name": "apple",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
   "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router": "^7.5.0",
+    "react-router-dom": "^7.9.6",
     "bootstrap": "^5.3.7",
     "react-bootstrap": "^2.10.10"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0",
+    "@vitejs/plugin-react": "^4.3.4"
   }
 }
