@@ -4,7 +4,7 @@ import "./css/styles.css";
 
 import Header from "./components/Header/Header";
 import Section from "./components/sectionOne/section";
-import SectionTwo from "./components/sectionTwo/SectionTwo";
+import SectionTwo from "./components/sectionTwo/sectionTwo";
 import Sectionn from "./components/Sectionn/Sectionn";
 import Three from "./components/SectionThree/Three";
 import Four from "./components/SectionFour/Four";
